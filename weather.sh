@@ -13,7 +13,7 @@ curl \
   -o result.html \
   wttr.in/$CITY?format=4\&$UNIT
   
-  wttr.in/$CITY?format=3/&$UNIT
+  wttr.in/$CITY?format=3\&$UNIT
   
   wget \
   wttr.in/$CITY.png
