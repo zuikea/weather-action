@@ -17,5 +17,4 @@ curl \
   -H "Accept-Language: $LANGUAGE" \
   -H "User-Agent: $UA" \
   -o result2.html \
-  
   wttr.in/$CITY
