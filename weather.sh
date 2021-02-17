@@ -13,6 +13,4 @@ curl \
   -H "User-Agent: $UA" \
   -o result.html \
   wttr.in/$CITY?format=4\&$UNIT
-  wttr.in/$CITY.png
-  #wget \
-  #wttr.in/$CITY.png
+  wttr.in/$CITY
